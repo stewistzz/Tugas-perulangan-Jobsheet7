@@ -40,7 +40,7 @@ public class WhileGaji08 {
             jabatan = input08.next();
             System.out.print("Masukkan jumlah jam lembur : ");
             jumlahJamLembur = input08.nextInt();
-            // i++;
+            //  i++;
 
             if (jabatan.equalsIgnoreCase("Direktur")) {
                 continue;
